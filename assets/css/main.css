@@ -2434,6 +2434,11 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+			
+		.responsive {
+			width: 100%;
+			height:auto;
+		}
 
 /* List */
 
