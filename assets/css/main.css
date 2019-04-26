@@ -2438,6 +2438,13 @@ input, select, textarea {
 		.responsive {
 			width: 100%;
 			height:auto;
+			margin:20px;
+		}
+
+		.responsivePortrait {
+			max-width:40%;
+			height:auto;
+			margin:15px;
 		}
 
 /* List */
